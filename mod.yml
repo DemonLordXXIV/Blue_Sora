@@ -1,5 +1,5 @@
-title: Purple Sora
-description: Changes Sora's Belts and Pockets to Purple
+title: Blue Sora
+description: Changes Sora's Belts and Pockets to Blue
 assets:
 #Textures Sora Main Tex0
 - name: remastered\obj\P_EX100.mdlx\-0.dds
@@ -144,4 +144,5 @@ assets:
   platform: pc
   method: copy
   source:
+
   - name: Textures\Sora\Base5.dds
