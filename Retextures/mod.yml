@@ -24,7 +24,7 @@ assets:
   platform: pc
   method: copy
   source:
-  - name: Textures\Sora\Base.dds
+  - name: Textures\Base.dds
 #Textures Sora Main tex1
 - name: remastered\obj\P_EX100.mdlx\-1.dds
   multi: 
@@ -48,7 +48,7 @@ assets:
   platform: pc
   method: copy
   source:
-  - name: Textures\Sora\Base1.dds
+  - name: Textures\Base1.dds
 #Textures Sora Main tex2
 - name: remastered\obj\P_EX100.mdlx\-2.dds
   multi: 
@@ -72,7 +72,7 @@ assets:
   platform: pc
   method: copy
   source:
-  - name: Textures\Sora\Base2.dds
+  - name: Textures\Base2.dds
 #Textures Sora Main tex3
 - name: remastered\obj\P_EX100.mdlx\-3.dds
   multi: 
@@ -96,7 +96,7 @@ assets:
   platform: pc
   method: copy
   source:
-  - name: Textures\Sora\Base3.dds
+  - name: Textures\Base3.dds
 #Textures Sora Main tex4
 - name: remastered\obj\P_EX100.mdlx\-4.dds
   multi: 
@@ -120,7 +120,7 @@ assets:
   platform: pc
   method: copy
   source:
-  - name: Textures\Sora\Base4.dds
+  - name: Textures\Base4.dds
 #Textures Sora Main tex5
 - name: remastered\obj\P_EX100.mdlx\-5.dds
   multi: 
@@ -145,4 +145,5 @@ assets:
   method: copy
   source:
 
-  - name: Textures\Sora\Base5.dds
+  - name: Textures\Base5.dds
+
